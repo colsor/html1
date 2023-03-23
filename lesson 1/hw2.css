@@ -18,13 +18,13 @@
 .wsecond {
     height: 100px;
     width: 400px;
-    margin: 0 auto;
+    margin: 10px auto;
     border-radius: 50px;
     border: 10px solid #2de19a;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 10px;
+
 }
 
 .isecond {
@@ -34,13 +34,13 @@
 .wthird{
     height: 100px;
     width: 400px;
-    margin: 0 auto;
+    margin: 10px auto;
     border-radius: 50px;
     border: 10px solid #e525d2;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 10px;
+
 }
 .ithird{
     font-size: 30px;
@@ -49,13 +49,13 @@
 .wfourth{
     height: 100px;
     width: 400px;
-    margin: 0 auto;
+    margin: 10px auto;
     border-radius: 50px;
     border: 10px solid #155bb6;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 10px;
+
 }
 .ifourth{
     font-size: 30px;
